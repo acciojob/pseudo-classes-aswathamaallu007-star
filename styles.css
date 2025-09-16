@@ -11,6 +11,9 @@ p:first-child{
 p:nth-child(2){
 	color:black;
 }
+p:nth-child(3){
+	color:black;
+}
 p:last-child{
 	color:red;
 }
